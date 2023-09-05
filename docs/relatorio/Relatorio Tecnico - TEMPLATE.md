@@ -5,17 +5,18 @@
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Análise e Desenvolvimento de Sistemas
 
 ## Participantes
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Débora Pereira Fonseca
+> - João Carlos Gonçalves Miranda
+> - João Victor Ribeiro da Silva
+> - Marcus Vinicius Ferreira Clemente
+> - Savio Belfort Nascimento Gama
 
 # Estrutura do Documento
 
