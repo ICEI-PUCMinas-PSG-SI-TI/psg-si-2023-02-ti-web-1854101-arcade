@@ -9,9 +9,8 @@ Análise e Desenvolvimento de Sistemas
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O grupo é composto por:
 
-> Os membros do grupo são: 
 > - Débora Pereira Fonseca
 > - João Carlos Gonçalves Miranda
 > - João Victor Ribeiro da Silva
