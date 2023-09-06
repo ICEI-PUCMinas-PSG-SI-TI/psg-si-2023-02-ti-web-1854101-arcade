@@ -118,8 +118,10 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Eduardo Da Silva    | Encontrar pessoas pra jogar        | Ter com quem jogar                     |
 |Eduardo Da Silva    | Localizar informações sobre os jogos que lhe interessam | Localizar ou receber uma notícia ou atualização relativa a um jogo específico |
-|Eduardo Da Silva    | Poder adicionar um usuário ou amigo        | Adicionar amigos ou usuários para competir juntos e compartilhar conquistas no jogo                     |
-|Isadora Ferreira    | Encontrar pessoas pra jogar        | Ter com quem jogar                     |
+|Eduardo Da Silva    | Poder adicionar um amigo        | Adicionar amigos para competir juntos e compartilhar conquistas no jogo                     |
+|Isadora Ferreira    | Poder ler notícias facilmente no celular    | O celular é portátil e fácil de carregar, tornando-o conveniente para ler notícias enquanto se desloca                     |
+|Isadora Ferreira | Poder dar uma opinião ou fazer um comentário sobre um jogo específico        |  criando interações sociais e compartilhamento de ideias                     |
+|Isadora Ferreira | Ter a praticidade de ver jogos de uma determinada categoria | Facilidade para acessar temas específicos em um gênero ou categoria de jogos |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
