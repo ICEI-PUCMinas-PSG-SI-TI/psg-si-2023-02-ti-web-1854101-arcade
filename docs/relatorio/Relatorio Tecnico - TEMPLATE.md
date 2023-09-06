@@ -122,6 +122,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Isadora Ferreira    | Poder ler notícias facilmente no celular    | O celular é portátil e fácil de carregar, tornando-o conveniente para ler notícias enquanto se desloca                     |
 |Isadora Ferreira | Poder dar uma opinião ou fazer um comentário sobre um jogo específico        |  criando interações sociais e compartilhamento de ideias                     |
 |Isadora Ferreira | Ter a praticidade de ver jogos de uma determinada categoria | Facilidade para acessar temas específicos em um gênero ou categoria de jogos |
+|Mauro Silveira | Receber notificações sobre noticias de um determinado jogo |  Me manter atualizado sobre determinado jogo |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
