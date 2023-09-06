@@ -1,7 +1,7 @@
 # Informações do Projeto
-`ARCADE`  
+`TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ARCADE
 
 `CURSO` 
 
