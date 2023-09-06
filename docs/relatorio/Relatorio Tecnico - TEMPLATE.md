@@ -114,7 +114,7 @@ O grupo é composto por:
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+| EU COMO... | QUERO/PRECISO ... | PARA ...  |
 |--------------------|------------------------------------|----------------------------------------|
 |Eduardo Da Silva | Encontrar pessoas para jogar | Ter com quem jogar |
 |Eduardo Da Silva | Localizar informações sobre os jogos que me interessam | Receber uma notícia ou atualização de um jogo específico |
