@@ -1,5 +1,5 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`ARCADE`  
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
