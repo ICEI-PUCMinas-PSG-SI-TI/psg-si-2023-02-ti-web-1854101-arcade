@@ -138,12 +138,13 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |------|-----------------------------------------|----|
 |RF-001| Opção de criação de uma conta para o usuário | ALTA | 
 |RF-002| Conter vídeos e imagens demonstrativas do jogo   | ALTA |
-|RF-003| Oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um jogo específico | ALTA
-|RF-004| Permitir usuário salvar um jogo em sua lista de desejos | MÉDIA
-|RF-005| Permitir usuário comentar sua análise/opinião na página do respectivo jogo | ALTA
-|RF-006| O site deve conter um sistema de amizade | ALTA
-|RF-007| Envio de notificação para uma solicitação de amizade e quando um jogo desejado recebe uma atualização/evento | MÉDIA
-|RF-008| O site deve ter notícias atualizadas na página do jogo | ALTA
+|RF-003| Oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um jogo específico | ALTA |
+|RF-004| Permitir usuário salvar um jogo em sua lista de desejos | MÉDIA |
+|RF-005| Permitir usuário comentar sua análise/opinião na página do respectivo jogo | ALTA |
+|RF-006| O site deve conter um sistema de amizade | ALTA |
+|RF-007| Envio de notificação para uma solicitação de amizade e quando um jogo desejado recebe uma atualização/evento | MÉDIA |
+|RF-008| O site deve ter notícias atualizadas na página do jogo | ALTA |
+|RF-009| O site deve apresentar os jogos por categoria | ALTA |
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
