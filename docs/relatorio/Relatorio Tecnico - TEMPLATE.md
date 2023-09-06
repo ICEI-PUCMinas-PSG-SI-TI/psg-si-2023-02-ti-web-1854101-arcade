@@ -116,7 +116,10 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Eduardo Da Silva    | Encontrar pessoas pra jogar.       | ter com quem jogar.                    |
+|Eduardo Da Silva    | Encontrar pessoas pra jogar        | Ter com quem jogar                     |
+|Eduardo Da Silva    | Localizar informações sobre os jogos que lhe interessam |  |
+|Eduardo Da Silva    | Encontrar pessoas pra jogar        | Ter com quem jogar                     |
+|Eduardo Da Silva    | Encontrar pessoas pra jogar        | Ter com quem jogar                     |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
