@@ -124,15 +124,6 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Isadora Ferreira | Ter a praticidade de ver jogos de uma determinada categoria | Facilidade para acessar temas específicos em um gênero ou categoria de jogos |
 |Mauro Silveira | Receber notificações de um determinado jogo | Me manter atualizado |
 
-> Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> da sua aplicação. Utilize as personas criadas como atores e, se for o caso, um administrador. 
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
 ## Requisitos
 
 A tabela que segue apresenta os requisitos funcionais do projeto. 
