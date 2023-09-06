@@ -116,7 +116,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Eduardo Da Silva    | Encontrar pessoas pra jogar.       | ter com quem jogar.                    |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
