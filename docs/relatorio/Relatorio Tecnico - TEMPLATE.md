@@ -126,7 +126,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 ## Requisitos
 
-A tabela que segue apresenta os requisitos funcionais do projeto. 
+As tabelas a seguir apresentam os requisitos funcionais e não funcionais do projeto. 
 
 ### Requisitos Funcionais
 
