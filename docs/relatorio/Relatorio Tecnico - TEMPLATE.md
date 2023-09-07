@@ -90,25 +90,18 @@ O grupo é composto por:
 > realizar a especificações do projeto
 
 ## Personas
+| ![mulher](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/3ccf490f-6661-4b7f-89bb-a45c50251565) |
+|--------------------|
+| **Nome:** Isadora Ferreira | | **Idade:** 22 anos |
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Relacione as personas identificadas no seu projeto. Lembre-se que 
-> você deve descrever precisamente e de forma personalizada o público alvo do seu projeto. 
-> Você pode incluir uma imagem da ficha de persona desenvolvida. 
->
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> 
-> **Exemplo de Ficha**
-> ![Exemplo de Persona](images/persona.png)
- 
+![homem](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/873a59b8-df9f-4134-9b8e-b08b1d18692a)
+#### Nome: 
+
+![garoto](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/ad7f0bb8-7cb9-4a89-b451-15f6fdb983a5)
+#### Nome: 
+
+
 
 ## Histórias de Usuários
 
@@ -132,22 +125,26 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais do pro
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Opção de criação de uma conta para o usuário | ALTA | 
-|RF-002| Conter vídeos e imagens demonstrativas do jogo   | ALTA |
-|RF-003| Oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um jogo específico | ALTA |
-|RF-004| Permitir usuário salvar um jogo em sua lista de desejos | MÉDIA |
+|RF-001| O site deve conter uma opção de criação de conta para o usuário | ALTA |
+|RF-002| Oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um jogo específico  | ALTA |
+|RF-003| Permitir usuário salvar um jogo em sua lista de desejos | MÉDIA |
+|RF-004| Conter vídeos e imagens demonstrativas do jogo | ALTA |
 |RF-005| Permitir usuário comentar sua análise/opinião na página do respectivo jogo | BAIXO |
 |RF-006| O site deve conter um sistema de amizade | ALTA |
 |RF-007| Envio de notificação para uma solicitação de amizade e quando um jogo desejado recebe uma atualização/evento | MÉDIA |
 |RF-008| O site deve ter notícias atualizadas na página do jogo | MÉDIA |
 |RF-009| O site deve apresentar os jogos por categoria | ALTA |
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+
+### Requisitos não funcionais
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RNF-001| O site deve ser compatível com a maioria dos navegadores | ALTA |
+|RNF-002| Ser de fácil usabilidade e acessibilidade | ALTA |
+|RNF-003| O site deve se manter estável, mesmo durante as manutenções | MÉDIA |
+|RNF-004| Ser extremamente cauteloso com informações sensíveis, como por exemplo informações pessoais do usuário | ALTA |
+|RNF-005| Ser responsivo e compatível com as diferentes plataformas | ALTA |
 
 # Projeto da Solução
 
