@@ -115,6 +115,7 @@ As personas criadas durante a etapa de compreensão do problema são apresentada
 | **Hobbies:** Coleciona CDs, gosta de cozinhar, jogar jogos de tabuleiro e montar quebra-cabeças |
 | **História:** |
 
+
 | ![garoto](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/ad7f0bb8-7cb9-4a89-b451-15f6fdb983a5) |
 |--------------------|
 | **Nome:** Eduardo Da Silva |
