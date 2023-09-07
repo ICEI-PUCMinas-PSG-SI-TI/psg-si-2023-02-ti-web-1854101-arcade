@@ -14,7 +14,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 * Felipe Augusto Lima Reis
 
 ## Quadro de tarefas
-[Kanban GitHub](https://github.com/orgs/ICEI-PUCMinas-PSG-SI-TI/projects/14/views/1)
+
 
 ## Instruções para uso
 Coloque aqui as instruções para acessar a página inicial do projeto (caminho completo do arquivo).
