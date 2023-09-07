@@ -89,44 +89,40 @@ O grupo é composto por:
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
 > realizar a especificações do projeto
 
+
 ## Personas
 
-As personas criadas durante a etapa de compreensão do problema são apresentadas a seguir.
-
+As personas criadas durante a etapa de compreensão do problema são apresentadas a seguir:
 
 | ![mulher](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/3ccf490f-6661-4b7f-89bb-a45c50251565) |
 |--------------------|
-| **Nome:** Isadora Ferreira |
-| **Idade:** 22 anos |
-| **Cidade:** Curitiba |
-| **Ocupação:** Médica Veterinária |
-| **Plataforma preferida:** Xbox |
-| **Hobbies:** Gosta de filmes e séries de TV, joga videogame casualmente, pratica esportes e toca guitarra |
-| **História:** |
-
+* **Nome:** Isadora Ferreira
+* **Idade:** 22 anos
+* **Cidade:** Curitiba
+* **Ocupação:** Médica Veterinária
+* **Plataforma preferida:** Xbox
+* **Hobbies:** Gosta de filmes e séries de TV, joga videogame casualmente, pratica esportes e toca guitarra
+* **História:**
 
 | ![homem](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/873a59b8-df9f-4134-9b8e-b08b1d18692a) |
 |--------------------|
-| **Nome:** Mauro Silveira |
-| **Idade:** 34 anos |
-| **Cidade:** Belém |
-| **Ocupação:** Professor |
-| **Plataforma preferida:** Computador |
-| **Hobbies:** Coleciona CDs, gosta de cozinhar, jogar jogos de tabuleiro e montar quebra-cabeças |
-| **História:** |
-
+* **Nome:** Mauro Silveira
+* **Idade:** 34 anos
+* **Cidade:** Belém
+* **Ocupação:** Professor
+* **Plataforma preferida:** Computador
+* **Hobbies:** Coleciona CDs, gosta de cozinhar, jogar jogos de tabuleiro e montar quebra-cabeças
+* **História:**
 
 | ![garoto](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/ad7f0bb8-7cb9-4a89-b451-15f6fdb983a5) |
 |--------------------|
-| **Nome:** Eduardo Da Silva |
-| **Idade:** 13 anos |
-| **Cidade:** Juiz de Fora |
-| **Ocupação:** Estudante |
-| **Plataforma preferida:** Playstation |
-| **Hobbies:** Gosta de jogar futebol, ir ao cinema e andar de skate |
-| **História:** |
-
-
+* **Nome:** Eduardo Da Silva
+* **Idade:** 13 anos
+* **Cidade:** Juiz de Fora
+* **Ocupação:** Estudante
+* **Plataforma preferida:** Playstation
+* **Hobbies:** Gosta de jogar futebol, ir ao cinema e andar de skate
+* **História:**
 
 ## Histórias de Usuários
 
@@ -134,13 +130,13 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 | EU COMO... | QUERO/PRECISO ... | PARA ...  |
 |--------------------|------------------------------------|----------------------------------------|
-|Eduardo Da Silva | Encontrar pessoas para jogar | Ter com quem jogar |
-|Eduardo Da Silva | Localizar informações sobre os jogos que me interessam | Receber uma notícia ou atualização de um jogo específico |
-|Eduardo Da Silva | Poder adicionar um amigo | Competir juntos e compartilhar conquistas no jogo |
-|Isadora Ferreira | Poder ler notícias de um jogo facilmente no celular | O celular é portátil e fácil de carregar, tornando-o conveniente para ler notícias enquanto se desloca |
-|Isadora Ferreira | Poder dar uma opinião ou fazer um comentário sobre um jogo específico | Criar interações sociais e compartilhamento de ideias |
-|Isadora Ferreira | Ter a praticidade de ver jogos de uma determinada categoria | Facilidade para acessar temas específicos em um gênero ou categoria de jogos |
-|Mauro Silveira | Receber notificações de um determinado jogo | Me manter atualizado |
+|Eduardo Da Silva| Encontrar pessoas para jogar | Ter com quem jogar |
+|Eduardo Da Silva| Localizar informações sobre os jogos que me interessam | Receber uma notícia ou atualização de um jogo específico |
+|Eduardo Da Silva| Poder adicionar um amigo | Competir juntos e compartilhar conquistas no jogo |
+|Isadora Ferreira| Poder ler notícias de um jogo facilmente no celular | O celular é portátil e fácil de carregar, tornando-o conveniente para ler notícias enquanto se desloca |
+|Isadora Ferreira| Poder dar uma opinião ou fazer um comentário sobre um jogo específico | Criar interações sociais e compartilhamento de ideias |
+|Isadora Ferreira| Ter a praticidade de ver jogos de uma determinada categoria | Facilidade para acessar temas específicos em um gênero ou categoria de jogos |
+|Mauro Silveira| Receber notificações de um determinado jogo | Me manter atualizado |
 
 ## Requisitos
 
