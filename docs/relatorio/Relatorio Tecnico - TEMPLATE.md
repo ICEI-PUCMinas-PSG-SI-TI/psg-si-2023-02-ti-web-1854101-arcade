@@ -90,16 +90,40 @@ O grupo é composto por:
 > realizar a especificações do projeto
 
 ## Personas
+
+As personas criadas durante a etapa de compreensão do problema são apresentadas a seguir.
+
+
 | ![mulher](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/3ccf490f-6661-4b7f-89bb-a45c50251565) |
 |--------------------|
-| **Nome:** Isadora Ferreira | | **Idade:** 22 anos |
+| **Nome:** Isadora Ferreira |
+| **Idade:** 22 anos |
+| **Cidade:** Curitiba |
+| **Ocupação:** Médica Veterinária |
+| **Plataforma preferida:** Xbox |
+| **Hobbies:** Gosta de filmes e séries de TV, joga videogame casualmente, pratica esportes e toca guitarra |
+| **História:** |
 
 
-![homem](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/873a59b8-df9f-4134-9b8e-b08b1d18692a)
-#### Nome: 
+| ![homem](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/873a59b8-df9f-4134-9b8e-b08b1d18692a) |
+|--------------------|
+| **Nome:** Mauro Silveira |
+| **Idade:** 34 anos |
+| **Cidade:** Belém |
+| **Ocupação:** Professor |
+| **Plataforma preferida:** Computador |
+| **Hobbies:** Coleciona CDs, gosta de cozinhar, jogar jogos de tabuleiro e montar quebra-cabeças |
+| **História:** |
 
-![garoto](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/ad7f0bb8-7cb9-4a89-b451-15f6fdb983a5)
-#### Nome: 
+| ![garoto](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/ad7f0bb8-7cb9-4a89-b451-15f6fdb983a5) |
+|--------------------|
+| **Nome:** Eduardo Da Silva |
+| **Idade:** 13 anos |
+| **Cidade:** Juiz de Fora |
+| **Ocupação:** Estudante |
+| **Plataforma preferida:** Playstation |
+| **Hobbies:** Gosta de jogar futebol, ir ao cinema e andar de skate |
+| **História:** |
 
 
 
@@ -138,8 +162,8 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais do pro
 
 ### Requisitos não funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
+|ID     | Descrição do Requisito  | Prioridade |
+|-------|-----------------------------------------|----|
 |RNF-001| O site deve ser compatível com a maioria dos navegadores | ALTA |
 |RNF-002| Ser de fácil usabilidade e acessibilidade | ALTA |
 |RNF-003| O site deve se manter estável, mesmo durante as manutenções | MÉDIA |
