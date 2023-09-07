@@ -156,7 +156,6 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais do pro
 |RF-008| O site deve ter notícias atualizadas na página do jogo | MÉDIA |
 |RF-009| O site deve apresentar os jogos por categoria | ALTA |
 
-
 ### Requisitos não funcionais
 
 |ID     | Descrição do Requisito  | Prioridade |
@@ -166,6 +165,9 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais do pro
 |RNF-003| O site deve se manter estável, mesmo durante as manutenções | MÉDIA |
 |RNF-004| Ser extremamente cauteloso com informações sensíveis, como por exemplo, informações pessoais do usuário | ALTA |
 |RNF-005| Ser responsivo e compatível com as diferentes plataformas | ALTA |
+
+### Restrições
+
 
 # Projeto da Solução
 
