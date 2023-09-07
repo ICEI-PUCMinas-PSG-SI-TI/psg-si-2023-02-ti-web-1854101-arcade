@@ -164,7 +164,7 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais do pro
 |RNF-001| O site deve ser compatível com a maioria dos navegadores | ALTA |
 |RNF-002| Ser de fácil usabilidade e acessibilidade | ALTA |
 |RNF-003| O site deve se manter estável, mesmo durante as manutenções | MÉDIA |
-|RNF-004| Ser extremamente cauteloso com informações sensíveis, como por exemplo informações pessoais do usuário | ALTA |
+|RNF-004| Ser extremamente cauteloso com informações sensíveis, como por exemplo, informações pessoais do usuário | ALTA |
 |RNF-005| Ser responsivo e compatível com as diferentes plataformas | ALTA |
 
 # Projeto da Solução
