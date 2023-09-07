@@ -15,6 +15,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Quadro de tarefas
 
+https://github.com/orgs/ICEI-PUCMinas-PSG-SI-TI/projects/17/views/1
 
 ## Instruções para uso
 Coloque aqui as instruções para acessar a página inicial do projeto (caminho completo do arquivo).
