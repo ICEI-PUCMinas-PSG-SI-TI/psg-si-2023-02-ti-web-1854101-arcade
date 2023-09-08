@@ -36,12 +36,12 @@ O grupo é composto por:
 - [Conclusões](#avaliação-da-aplicação)
   
 # Introdução
-
-## Problema
-
 Na era atual, o interesse por leitura, séries e filmes tem se expandido exponencialmente, impulsionado pelo desejo crescente de enriquecer as experiências nesse vasto universo de entretenimento.
 
 Dentro desse cenário, surge o projeto "ARCADE", dedicado à biblioteca de jogos, que tem como objetivo proporcionar aos entusiastas uma jornada envolvente e esclarecedora ao explorar e descobrir novos títulos. Através de descrições e sinopses criteriosamente elaboradas, a plataforma auxilia os usuários a adquirir uma compreensão completa das narrativas e, assim, tomar decisões bem informadas sobre quais jogos desejam explorar a seguir. Com uma interface intuitiva e recursos adicionais, o "ARCADE" busca proporcionar uma experiência integral aos amantes de jogos, incentivando o compartilhamento de conhecimento e a descoberta de novas aventuras virtuais.
+## Problema
+
+...... COLOQUE AQUI O SEU TEXTO ......
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
