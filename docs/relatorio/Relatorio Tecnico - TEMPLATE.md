@@ -169,7 +169,11 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais do pro
 |RNF-005| Ser responsivo e compatível com as diferentes plataformas | ALTA |
 
 ### Restrições
+A tabela a seguir mostra as restrições do projeto, que devem ser seguidas para não compremeter seu resultado.
 
+|ID    | Descrição do Requisito  |
+|------|-------------------------|
+|RE-001| O projeto deve ser entregue no dia 05 de dezembro, ao final do semestre |
 
 # Projeto da Solução
 
