@@ -42,7 +42,7 @@ Dentro desse cenário, surge o projeto "ARCADE", dedicado à biblioteca de jogos
 ## Problema
 !!! PODE SOFRER ALTERAÇÕES !!!
 Atualmente, os jogadores enfrentam dificuldades para obter informações confiáveis sobre jogos devido à diversidade de plataformas e gêneros. Surge a necessidade de uma fonte confiável de informações detalhadas e imparciais. A solução proposta busca atender a essa necessidade em um mercado saturado.
-...... COLOQUE AQUI O SEU TEXTO ......
+
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
