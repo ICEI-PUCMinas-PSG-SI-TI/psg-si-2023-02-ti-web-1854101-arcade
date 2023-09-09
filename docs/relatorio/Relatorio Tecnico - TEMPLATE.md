@@ -54,7 +54,7 @@ Atualmente, os jogadores enfrentam dificuldades para obter informações confiá
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo do projeto "ARCADE" é ser um site confiável para informações sobre jogos e proporcionar um novo meio de descobrir jogos e comunidades de jogadores. Nosso site também tem como alvo pessoas de todas as idades, oferecendo uma interface intuitiva e novas experiências virtuais.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -67,7 +67,7 @@ Atualmente, os jogadores enfrentam dificuldades para obter informações confiá
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O público-alvo do "ARCADE" é, em sua maioria, adolescentes e jovens adultos que têm um conhecimento mínimo sobre jogos e plataformas online. O nosso público majoritário busca um site confiável, e esse é um dos nossos objetivos. Nosso site também tem o foco em atingir outros públicos, que sejam mais infantis ou mais velhos e que desejem uma porta de entrada confiável. O público infantil já conhece jogos, porém um problema que essa faixa etária enfrenta pode ser não encontrar comunidades seguras. Já os mais velhos buscam comunidades para se inserirem e jogos para jogarem que se encaixem com seu perfil.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
