@@ -6,6 +6,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 * Débora Pereira Fonseca
 * João Carlos Gonçalves Miranda
 * João Victor Ribeiro da Silva
+* Luiz Sérgio Aires Machado Júnior
 * Marcus Vinicius Ferreira Clemente
 * Savio Belfort Nascimento Gama
 
