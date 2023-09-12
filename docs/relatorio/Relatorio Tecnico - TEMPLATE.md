@@ -182,7 +182,7 @@ A tabela a seguir mostra as restrições do projeto, que devem ser seguidas para
 
 ## Wireframes
 
-![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/01e27d69-1146-402d-bb2d-5a9300db16a3)
+
 
 
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
