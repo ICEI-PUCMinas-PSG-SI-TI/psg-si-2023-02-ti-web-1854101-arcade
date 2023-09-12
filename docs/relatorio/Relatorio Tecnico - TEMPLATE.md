@@ -183,9 +183,6 @@ A tabela a seguir mostra as restrições do projeto, que devem ser seguidas para
 
 ## Wireframes
 
-https://miro.com/app/board/uXjVMoZx6No=/?share_link_id=703808388196
-
-
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
@@ -196,15 +193,8 @@ https://miro.com/app/board/uXjVMoZx6No=/?share_link_id=703808388196
 
 ## Mapa de navegação
 
-Após o usuário acessar o link da página, será necessário criar uma conta ou fazer login.
-
-
-> Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
-> um usuário deve realizar para utilizar todas as características do seu sistema. 
-
-
-> **Exemplo de Diagrama (opcional, pode ser em texto)**
-> ![Exemplo de Diagrama de Navegação](images/userflow.jpg)
+O Diagrama de Navegação pode ser encontrado no link a seguir:
+https://miro.com/app/board/uXjVMoZx6No=/?share_link_id=703808388196
 
 # Conclusões
 
