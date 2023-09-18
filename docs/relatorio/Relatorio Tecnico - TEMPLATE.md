@@ -129,6 +129,8 @@ Isadora trabalha numa clinica veterinária, ela adora jogar vídeo game em seu t
 * **Hobbies:** Gosta de jogar futebol, ir ao cinema e andar de skate
 * **História:**
 
+Eduardo é um amante de esportes, com isso seu gosto para jogos de futebol acabou crescendo, ele regularmente participa de campeonatos em sua cidade. Entre esses campeonatos ele conheceu o Arcade, uma enorme comunidade que reune dos mais diversos jogadores que existe.
+
 ## Histórias de Usuários
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
