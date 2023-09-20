@@ -40,50 +40,18 @@ O grupo é composto por:
 Na era atual, o interesse por leitura, séries e filmes tem se expandido exponencialmente, impulsionado pelo desejo crescente de enriquecer as experiências nesse vasto universo de entretenimento.
 
 Dentro desse cenário, surge o projeto "ARCADE", dedicado à biblioteca de jogos, que tem como objetivo proporcionar aos entusiastas uma jornada envolvente e esclarecedora ao explorar e descobrir novos títulos. Através de descrições e sinopses criteriosamente elaboradas, a plataforma auxilia os usuários a adquirir uma compreensão completa das narrativas e, assim, tomar decisões bem informadas sobre quais jogos desejam explorar a seguir. Com uma interface intuitiva e recursos adicionais, o "ARCADE" busca proporcionar uma experiência integral aos amantes de jogos, incentivando o compartilhamento de conhecimento e a descoberta de novas aventuras virtuais.
+
 ## Problema
 Atualmente, os jogadores enfrentam dificuldades para obter informações confiáveis sobre jogos devido à diversidade de plataformas e gêneros. Surge a necessidade de uma fonte confiável de informações detalhadas e imparciais. A solução proposta busca atender a essa necessidade em um mercado saturado.
-
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos. Utilize como base a ficha inicial de detalhamento do problema.
->
 
 ## Objetivos
 
 O objetivo do projeto "ARCADE" é ser um site confiável para informações sobre jogos e proporcionar um novo meio de descobrir jogos e comunidades de jogadores. Nosso site também tem como alvo pessoas de todas as idades, oferecendo uma interface intuitiva e novas experiências virtuais.
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também pelo menos 2 objetivos
-> específicos dependendo de onde você vai querer concentrar ou aprofundar
-> as características do trabalho.
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Público-Alvo
 
 O público-alvo do "ARCADE" é, em sua maioria, adolescentes e jovens adultos que têm um conhecimento mínimo sobre jogos e plataformas online. O nosso público majoritário busca um site confiável, e esse é um dos nossos objetivos. Nosso site também tem o foco em atingir outros públicos, que sejam mais infantis ou mais velhos e que desejem uma porta de entrada confiável. O público infantil já conhece jogos, porém um problema que essa faixa etária enfrenta pode ser não encontrar comunidades seguras. Já os mais velhos buscam comunidades para se inserirem e jogos para jogarem que se encaixem com seu perfil.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
 # Especificações do Projeto
 
 ......  COLOQUE AQUI O SEU TEXTO ......
@@ -91,7 +59,6 @@ O público-alvo do "ARCADE" é, em sua maioria, adolescentes e jovens adultos qu
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
 > realizar a especificações do projeto
-
 
 ## Personas
 
