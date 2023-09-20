@@ -106,7 +106,6 @@ As personas criadas durante a etapa de compreensão do problema são apresentada
 * **Plataforma preferida:** Xbox
 * **Hobbies:** Gosta de filmes e séries de TV, joga videogame casualmente, pratica esportes e toca guitarra
 * **História:**
-
 Isadora trabalha numa clinica veterinária, ela adora jogar vídeo game em seu tempo livre, seus jogos preferidos são FPS, sendo mais voltada para um jogo online, Isadora infelizmente não possui muitos amigos que compartilhem do mesmo gosto ou que tenham interesses em jogos. Após algumas pesquisas ela encontrou a plataforma "Arcade" onde ela conheceu uma enorme comunidade de Gamers, jogadores que assim como ela tinham o interesse em conhecer pessoas com gostos similares ao dela.
 
 | ![homem](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/873a59b8-df9f-4134-9b8e-b08b1d18692a) |
@@ -128,7 +127,6 @@ Isadora trabalha numa clinica veterinária, ela adora jogar vídeo game em seu t
 * **Plataforma preferida:** Playstation
 * **Hobbies:** Gosta de jogar futebol, ir ao cinema e andar de skate
 * **História:**
-
 Eduardo é um amante de esportes, com isso seu gosto para jogos de futebol acabou crescendo, ele regularmente participa de campeonatos em sua cidade. Entre esses campeonatos ele conheceu o Arcade, uma enorme comunidade que reune dos mais diversos jogadores que existe.
 
 ## Histórias de Usuários
