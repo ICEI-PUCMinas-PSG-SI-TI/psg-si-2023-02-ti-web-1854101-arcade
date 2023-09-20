@@ -1,11 +1,7 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`ARCADE`  
 
-ARCADE
-
-`CURSO` 
-
-Análise e Desenvolvimento de Sistemas
+`Análise e Desenvolvimento de Sistemas` 
 
 ## Participantes
 
