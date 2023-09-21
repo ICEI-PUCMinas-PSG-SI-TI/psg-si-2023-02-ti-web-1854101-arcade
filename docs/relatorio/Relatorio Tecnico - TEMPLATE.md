@@ -50,11 +50,7 @@ O público-alvo do "ARCADE" é, em sua maioria, adolescentes e jovens adultos qu
 
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+A equipe conduziu entrevistas para definir precisamente o problema e identificar os pontos mais cruciais deste projeto. Os detalhes adquiridos neste estágio foram utilizados para criar personas e histórias de usuário para ajudar no desenvolvimento.
 
 ## Personas
 
@@ -68,8 +64,7 @@ As personas criadas durante a etapa de compreensão do problema são apresentada
 * **Ocupação:** Médica Veterinária
 * **Plataforma preferida:** Xbox
 * **Hobbies:** Gosta de filmes e séries de TV, joga videogame casualmente, pratica esportes e toca guitarra
-* **História:**
-Isadora trabalha numa clinica veterinária, ela adora jogar vídeo game em seu tempo livre, seus jogos preferidos são FPS, sendo mais voltada para um jogo online, Isadora infelizmente não possui muitos amigos que compartilhem do mesmo gosto ou que tenham interesses em jogos. Após algumas pesquisas ela encontrou a plataforma "Arcade" onde ela conheceu uma enorme comunidade de Gamers, jogadores que assim como ela tinham o interesse em conhecer pessoas com gostos similares ao dela.
+* **História:** Isadora trabalha em uma Clínica Veterinária. Ela adora jogar videogame em seu tempo livre e seus jogos preferidos são FPS, sendo mais voltada para um jogo online. Isadora infelizmente não possui muitos amigos que compartilhem do mesmo gosto ou que tenham interesses em jogos. Após algumas pesquisas ela encontrou a plataforma "Arcade", onde ela conheceu uma enorme comunidade de gamers que possuíam gostos similares ao dela
 
 | ![homem](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/873a59b8-df9f-4134-9b8e-b08b1d18692a) |
 |--------------------|
@@ -89,8 +84,7 @@ Isadora trabalha numa clinica veterinária, ela adora jogar vídeo game em seu t
 * **Ocupação:** Estudante
 * **Plataforma preferida:** Playstation
 * **Hobbies:** Gosta de jogar futebol, ir ao cinema e andar de skate
-* **História:**
-Eduardo é um amante de esportes, com isso seu gosto para jogos de futebol acabou crescendo, ele regularmente participa de campeonatos em sua cidade. Entre esses campeonatos ele conheceu o Arcade, uma enorme comunidade que reune dos mais diversos jogadores que existe.
+* **História:** Eduardo é um amante de esportes, com isso seu gosto para jogos de futebol acabou crescendo. Ele regularmente participa de campeonatos em sua cidade e, entre esses campeonatos, conheceu a "Arcade": uma enorme comunidade que reúne dos mais diversos jogadores que existe
 
 ## Histórias de Usuários
 
