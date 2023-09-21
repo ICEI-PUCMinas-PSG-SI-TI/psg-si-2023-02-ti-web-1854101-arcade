@@ -146,24 +146,29 @@ O projeto deve ser entregue no dia 05 de dezembro, ao final do semestre. É impo
 
 #### Tela - Login
 A tela de login conta com um sistema de verificação para que o usuário consiga acessar a página.
+
 ![login](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/57932569-ea62-46af-9923-d92508130fa3)
 
 #### Tela - Cadastro
 A tela de cadastro conta com um sistema de cadastro onde o usuário informa seus dados e se ele deseja receber notificações do site em seu e-mail.
+
 ![cadastro](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/02abfa5a-9978-4c97-8c36-cb7c6b4da00f)
 
 #### Tela - Home
 A tela principal mostra os jogos em destaque e os que já possuem data para lançamento em breve. Além disso, possui um componente de pesquisa que permite ao usuário encontrar o jogo que deseja e uma parte onde será possível filtrar os jogos através da escolha de gênero de um jogo. Desta página, assim como das outras a seguir, é possível acessar também a tela de comunidade, perfil do usuário e uma tela sobre o projeto.
+
 ![home](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/5b266fec-1561-4887-94c0-22c3a7df1be5)
 
 #### Tela - Perfil
 
 #### Tela - Gênero
 A tela de gênero irá mostrar ao usuário todos os jogos do gênero que foi escolhido anteriormente.
+
 ![genero](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/04a9d870-21a6-442a-bb15-42d183c1bea0)
 
 #### Tela - Jogo
 A tela de jogos consta uma imagem do jogo que foi escolhido pelo usuário, assim como uma breve descrição, trailer e atualizações. Além disso, é possível que o jogador deixe um breve comentário na página para que outras pessoas possam ler também.
+
 ![jogo](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/f1d8ea50-b4de-4335-b780-71af1987b0bc)
 
 ## Mapa de navegação
