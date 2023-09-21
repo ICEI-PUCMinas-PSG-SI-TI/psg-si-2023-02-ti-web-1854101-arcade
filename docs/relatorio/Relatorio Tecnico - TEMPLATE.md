@@ -172,10 +172,9 @@ https://miro.com/app/board/uXjVMoZx6No=/?share_link_id=703808388196
 
 # Conclusões
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O arcade atinge sua principal meta, ser um site confiável de informações para a comunidade Gamer, onde jogadores podem pesquisar a respeito das atualizações de seus jogos preferidos, além de acompanhar suas novidades, e apresentar jogos e comunidades para players de todas as idades.
 
-> Finalize escrevendo um ou dois parágrafos para relembrar o objetivo do projeto, 
-> o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
-> as principais dificuldes encontradas e como foi possível contorná-las. 
+A um futuro próximo o Arcade propõe novas atualizações, como uma aba para comunidades, onde os usuários poderão compartilhar suas experiências com seus jogos preferidos, além de uma interface editável ao gosto do usuário.  As dificuldades notadas durante o desenvolvimento, foi a decisão a respeito da quantidade de telas e incerteza com o Wireframes.
+
 
 
