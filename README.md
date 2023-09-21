@@ -1,5 +1,5 @@
 # ARCADE
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+O objetivo do projeto "ARCADE" é ser um site confiável para informações sobre jogos. Nosso site também tem como alvo pessoas de todas as idades, oferecendo uma interface intuitiva e novas experiências virtuais.
 
 ## Alunos integrantes da equipe
 
