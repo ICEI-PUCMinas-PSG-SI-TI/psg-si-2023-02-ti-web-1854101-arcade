@@ -83,7 +83,6 @@ As personas criadas durante a etapa de compreensão do problema são apresentada
 * **História:** Eduardo é um amante de esportes, com isso seu gosto para jogos de futebol acabou crescendo. Ele regularmente participa de campeonatos em sua cidade e, entre esses campeonatos, conheceu a "ARCADE": uma enorme comunidade que reúne dos mais diversos jogadores que existe.
 
 ## Histórias de Usuários
-
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 | EU COMO... | QUERO/PRECISO ... | PARA ...  |
@@ -97,7 +96,6 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Mauro Silveira| Receber notificações de um determinado jogo | Me manter atualizado |
 
 ## Requisitos
-
 As tabelas a seguir apresentam os requisitos funcionais e não funcionais do projeto. 
 
 ### Requisitos Funcionais
@@ -128,42 +126,40 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais do pro
 O projeto deve ser entregue no dia 05 de dezembro, ao final do semestre. É importante atentar-se a esse prazo para não compremeter o resultado.
 
 # Projeto da Solução
-
-......  COLOQUE AQUI O SEU TEXTO ......
-> Descreva brevemente quais tecnologias e/ou frameworks foram utilizados no projeto.
+O GitHub foi utilizado para repositório de código fonte e documentação do projeto. Os Wireframes e Diagrama de Navegação foram feitos no Miro e foi utilizado o quadro Kanban para gerenciamento do projeto.
+Para o desenvolvimento do projeto Web, utilizamos HTML, CSS, Bootstrap e JavaScript.
 
 ## Wireframes
 
 #### Tela - Login
 A tela de login conta com um sistema de verificação para que o usuário consiga acessar a página.
 
-![login](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/57932569-ea62-46af-9923-d92508130fa3)
+![login](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/1aeb221b-c316-4e1a-a87e-1eb18830d328)
 
 #### Tela - Cadastro
 A tela de cadastro conta com um sistema de cadastro onde o usuário informa seus dados e se ele deseja receber notificações do site em seu e-mail.
 
-![cadastro](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/02abfa5a-9978-4c97-8c36-cb7c6b4da00f)
+![cadastro](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/94a414cc-5fdc-4aee-aa0e-f1da7d4ded1f)
 
 #### Tela - Home
 A tela principal mostra os jogos em destaque e os que já possuem data para lançamento em breve. Além disso, possui um componente de pesquisa que permite ao usuário encontrar o jogo que deseja e uma parte onde será possível filtrar os jogos através da escolha de gênero de um jogo. Desta página, assim como das outras a seguir, é possível acessar também a tela de comunidade, perfil do usuário e uma tela sobre o projeto.
 
-![home](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/5b266fec-1561-4887-94c0-22c3a7df1be5)
+![home](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/b4bb062a-a007-4fc9-b64f-1eb345f1c218)
 
 #### Tela - Perfil
 A tela de perfil conta com uma interface onde o usuário poderá colocar sua foto e seu nome. Além disso, é possível que o jogador entre na página de "Amigos", "Notificações" e "Lista de desejos". Se desejar sair da sua conta, mais abaixo é possível encontrar um botão para isso.
 
-![perfil](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/6064df60-af85-4689-8172-7f02b3c2c248)
-
+![perfil](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/40a61220-5b34-4802-9301-10fc250968f2)
 
 #### Tela - Gênero
 A tela de gênero irá mostrar ao usuário todos os jogos do gênero que foi escolhido anteriormente.
 
-![genero](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/04a9d870-21a6-442a-bb15-42d183c1bea0)
+![genero](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/06679eed-a640-41e9-b729-6127014cee1a)
 
 #### Tela - Jogo
 A tela de jogos consta uma imagem do jogo que foi escolhido pelo usuário, assim como uma breve descrição, trailer e atualizações. Além disso, é possível que o jogador deixe um breve comentário na página para que outras pessoas possam ler também.
 
-![jogo](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/f1d8ea50-b4de-4335-b780-71af1987b0bc)
+![jogo](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/128ffcc4-353e-49e5-b8be-e326fed6ce27)
 
 ## Mapa de navegação
 O Diagrama de Navegação pode ser encontrado no link a seguir:
