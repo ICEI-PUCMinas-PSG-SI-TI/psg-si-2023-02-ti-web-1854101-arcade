@@ -35,25 +35,21 @@ O grupo é composto por:
 # Introdução
 Na era atual, o interesse por leitura, séries e filmes tem se expandido exponencialmente, impulsionado pelo desejo crescente de enriquecer as experiências nesse vasto universo de entretenimento.
 
-Dentro desse cenário, surge o projeto "ARCADE", dedicado à biblioteca de jogos, que tem como objetivo proporcionar aos entusiastas uma jornada envolvente e esclarecedora ao explorar e descobrir novos títulos. Através de descrições e sinopses criteriosamente elaboradas, a plataforma auxilia os usuários a adquirir uma compreensão completa das narrativas e, assim, tomar decisões bem informadas sobre quais jogos desejam explorar a seguir. Com uma interface intuitiva e recursos adicionais, o "ARCADE" busca proporcionar uma experiência integral aos amantes de jogos, incentivando o compartilhamento de conhecimento e a descoberta de novas aventuras virtuais.
+Dentro desse cenário, surge o projeto "ARCADE", dedicado à biblioteca de jogos, que tem como objetivo proporcionar aos entusiastas uma jornada envolvente e esclarecedora ao explorar e descobrir novos títulos. Através de descrições e sinopses criteriosamente elaboradas, a plataforma auxilia os usuários a adquirir uma compreensão completa das narrativas e, assim, tomar decisões bem informadas sobre quais jogos desejam explorar e seguir. Com uma interface intuitiva e recursos adicionais, o "ARCADE" busca proporcionar uma experiência integral aos amantes de jogos, incentivando o compartilhamento de conhecimento e a descoberta de novas aventuras virtuais.
 
 ## Problema
 Atualmente, os jogadores enfrentam dificuldades para obter informações confiáveis sobre jogos devido à diversidade de plataformas e gêneros. Surge a necessidade de uma fonte confiável de informações detalhadas e imparciais. A solução proposta busca atender a essa necessidade em um mercado saturado.
 
 ## Objetivos
-
-O objetivo do projeto "ARCADE" é ser um site confiável para informações sobre jogos e proporcionar um novo meio de descobrir jogos e comunidades de jogadores. Nosso site também tem como alvo pessoas de todas as idades, oferecendo uma interface intuitiva e novas experiências virtuais.
+O objetivo do projeto "ARCADE" é ser um site confiável para informações sobre jogos e oferecer uma nova maneira de se conectar com comunidades de jogadores. Nosso site também tem como alvo pessoas de todas as idades, oferecendo uma interface intuitiva e novas experiências virtuais.
 
 ## Público-Alvo
-
 O público-alvo do "ARCADE" é, em sua maioria, adolescentes e jovens adultos que têm um conhecimento mínimo sobre jogos e plataformas online. O nosso público majoritário busca um site confiável, e esse é um dos nossos objetivos. Nosso site também tem o foco em atingir outros públicos, que sejam mais infantis ou mais velhos e que desejem uma porta de entrada confiável. O público infantil já conhece jogos, porém um problema que essa faixa etária enfrenta pode ser não encontrar comunidades seguras. Já os mais velhos buscam comunidades para se inserirem e jogos para jogarem que se encaixem com seu perfil.
 
 # Especificações do Projeto
-
 A equipe conduziu entrevistas para definir precisamente o problema e identificar os pontos mais cruciais deste projeto. Os detalhes adquiridos neste estágio foram utilizados para criar personas e histórias de usuário para ajudar no desenvolvimento.
 
 ## Personas
-
 As personas criadas durante a etapa de compreensão do problema são apresentadas a seguir:
 
 | ![mulher](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/3ccf490f-6661-4b7f-89bb-a45c50251565) |
@@ -166,15 +162,15 @@ A tela de jogos consta uma imagem do jogo que foi escolhido pelo usuário, assim
 ![jogo](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/f1d8ea50-b4de-4335-b780-71af1987b0bc)
 
 ## Mapa de navegação
-
 O Diagrama de Navegação pode ser encontrado no link a seguir:
 https://miro.com/app/board/uXjVMoZx6No=/?share_link_id=703808388196
 
 # Conclusões
+O arcade atinge sua principal meta sendo um site confiável de informações para a comunidade Gamer, onde jogadores podem pesquisar a respeito das atualizações de seus jogos preferidos, além de acompanhar suas novidades, e apresentar jogos e comunidades para players de todas as idades.
 
-O arcade atinge sua principal meta, ser um site confiável de informações para a comunidade Gamer, onde jogadores podem pesquisar a respeito das atualizações de seus jogos preferidos, além de acompanhar suas novidades, e apresentar jogos e comunidades para players de todas as idades.
+A um futuro próximo o Arcade propõe novas atualizações, como uma aba para comunidade, onde os usuários poderão compartilhar suas experiências com seus jogos preferidos, além de uma interface editável ao gosto do usuário.
 
-A um futuro próximo o Arcade propõe novas atualizações, como uma aba para comunidades, onde os usuários poderão compartilhar suas experiências com seus jogos preferidos, além de uma interface editável ao gosto do usuário.  As dificuldades notadas durante o desenvolvimento, foi a decisão a respeito da quantidade de telas e incerteza com o Wireframes.
+As dificuldades notadas durante o desenvolvimento, foi a decisão a respeito da quantidade de telas e incerteza em relação ao modelo do site.
 
 
 
