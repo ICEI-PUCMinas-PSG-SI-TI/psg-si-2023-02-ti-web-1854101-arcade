@@ -1,4 +1,3 @@
-i# Informações do Projeto
 `ARCADE`  
 
 `Análise e Desenvolvimento de Sistemas` 
