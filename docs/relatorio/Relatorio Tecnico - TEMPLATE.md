@@ -1,4 +1,4 @@
-# Informações do Projeto
+i# Informações do Projeto
 `ARCADE`  
 
 `Análise e Desenvolvimento de Sistemas` 
@@ -71,6 +71,9 @@ As personas criadas durante a etapa de compreensão do problema são apresentada
 * **Plataforma preferida:** Computador
 * **Hobbies:** Coleciona CDs, gosta de cozinhar, jogar jogos de tabuleiro e montar quebra-cabeças
 * **História:**
+
+Mauro é professor de uma faculdade, ele interage com seus alunos durante os intervalos de horário, entre suas conversas ele descobriu sobre a plataforma Arcade, um site onde os usuários compartilham suas experiências com seus jogos preferidos e conversam em comunidades. Como seu gênero preferido são jogos de tabuleiro e quebra-cabeças, seus alunos o apresentaram aos gêneros de simulação e puzzle. 
+
 
 | ![garoto](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-jogos-eletronicos/assets/130398684/ad7f0bb8-7cb9-4a89-b451-15f6fdb983a5) |
 |--------------------|
