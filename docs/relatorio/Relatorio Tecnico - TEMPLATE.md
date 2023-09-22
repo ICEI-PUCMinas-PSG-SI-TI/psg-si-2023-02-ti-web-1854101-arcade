@@ -150,6 +150,10 @@ A tela principal mostra os jogos em destaque e os que já possuem data para lan�
 ![home](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/5b266fec-1561-4887-94c0-22c3a7df1be5)
 
 #### Tela - Perfil
+A tela de perfil conta com uma interface onde o usuário poderá colocar sua foto e seu nome. Além disso, é possível que o jogador entre na página de "Amigos", "Notificações" e "Lista de desejos". Se desejar sair da sua conta, mais abaixo é possível encontrar um botão para isso.
+
+![perfil](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/6064df60-af85-4689-8172-7f02b3c2c248)
+
 
 #### Tela - Gênero
 A tela de gênero irá mostrar ao usuário todos os jogos do gênero que foi escolhido anteriormente.
