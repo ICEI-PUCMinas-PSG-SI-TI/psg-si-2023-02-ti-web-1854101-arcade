@@ -7,7 +7,6 @@
 O grupo é composto por:
 
 > - Débora Pereira Fonseca
-> - João Carlos Gonçalves Miranda
 > - João Victor Ribeiro da Silva
 > - Luiz Sérgio Aires Machado Júnior
 > - Marcus Vinicius Ferreira Clemente
