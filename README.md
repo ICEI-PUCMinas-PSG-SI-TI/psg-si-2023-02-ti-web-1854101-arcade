@@ -4,7 +4,6 @@ O objetivo do projeto "ARCADE" é ser um site confiável para informações sobr
 ## Alunos integrantes da equipe
 
 * Débora Pereira Fonseca
-* João Carlos Gonçalves Miranda
 * João Victor Ribeiro da Silva
 * Luiz Sérgio Aires Machado Júnior
 * Marcus Vinicius Ferreira Clemente
