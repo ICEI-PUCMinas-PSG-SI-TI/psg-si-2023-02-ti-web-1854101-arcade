@@ -1,0 +1,85 @@
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script>
+        $(function () {
+            $("#tagCabecalho").load("cabecalho.html");
+            $("#tagFooter").load("rodape.html");
+        });
+    </script>
+    <!--FONTE-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap" rel="stylesheet">
+    <!--BOOTSTRAP-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+    <!--CSS-->
+    <link rel="stylesheet" href="paginajogos.css">
+</head>
+
+<body>
+    <!-- inicio header -->
+    <nav id="tagCabecalho"></nav>
+    <!-- fim header -->
+
+    <!-- inicio tela -->
+    <main>
+        <div class="container mt-5">
+          <div class="left">
+            <div class="card-fotojogo">
+              <img src="https://gmedia.playstation.com/is/image/SIEPDC/god-of-war-hub-thumbnail-2018-en-29jul21?$1600px$" alt="">          
+            </div>
+            <div class="card-user">
+              <h7>Análise de Usuários</h7>
+            </div>
+            <div class="card-coments">
+              <div class="comentario">                
+              </div>
+              <div class="btnNome"></div>          
+              <button id="addFriendButton" class="botao">Adicionar Amigo</button>     
+            </div>
+            <div class="card-coments">
+              <div class="comentario">                
+              </div>
+              <div class="btnNome"></div>          
+              <button id="addFriendButton" class="botao">Adicionar Amigo</button>     
+            </div>
+            <div class="card-coments">
+              <div class="comentario">                
+              </div>
+              <div class="btnNome"></div>          
+              <button id="addFriendButton" class="botao">Adicionar Amigo</button>     
+            </div>        
+          </div>
+          <div class="right">
+            <div class="card-titulo">
+              <h3>God of War</h3>
+            </div>
+            <div class="card-descricao">
+              <h7>Com a vingança contra os deuses do Olimpo em um passado distante, Kratos agora vive como um mortal no reino dos deuses e monstros nórdicos. É nesse mundo duro e implacável que ele deve lutar para sobreviver... e ensinar seu filho a fazer o mesmo.O jogo foi desenvolvido pela Santa Monica Studio e publicado pela Sony Interactive Entertainment para PlayStation 4.</h7>
+            </div>
+            <div class="card-trailer">
+              <iframe style="width: 100%; height: 100%; border-radius: 10px;" src="https://cdn.cloudflare.steamstatic.com/steam/apps/256864004/movie480_vp9.webm?t=1639001817" frameborder="0"></iframe>
+            </div>
+            <div class="card-noticias">   
+              <h5>Últimas notícias</h5>           
+              <h7>O Prime Video confirmou, que está mesmo produzindo uma série de God of War. A adaptação, que ainda não tem data de estreia e nem atores escalados, terá apoio da Sony Pictures Television e PlayStation Productions. “God of War está chegando”, anunciou a conta oficial do Twitter do serviço de streaming. De acordo com o site Deadline, o título de 2018 será mesmo a inspiração, já que o enredo seguirá Kratos, que depois de se exilar do passado sangrento na Grécia "pendura suas armas para sempre no reino nórdico de Midgard. Quando sua amada esposa morre, Kratos parte em uma perigosa jornada com seu filho distante para espalhar suas cinzas do pico mais alto".</h7>          
+            </div>
+          </div>    
+          </div>
+      </main>
+    <!-- fim tela -->
+
+    <!-- inicio footer -->
+    <footer id="tagFooter"></footer>
+    <!-- fim footer -->
+
+    <script src="paginajogos.js"></script>
+</body>
+
+</html>
