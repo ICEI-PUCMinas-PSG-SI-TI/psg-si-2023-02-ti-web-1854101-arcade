@@ -31,12 +31,16 @@ O grupo é composto por:
 - [Conclusões](#avaliação-da-aplicação)
   
 # Introdução
-Na era atual, o interesse por leitura, séries e filmes tem se expandido exponencialmente, impulsionado pelo desejo crescente de enriquecer as experiências nesse vasto universo de entretenimento.
+Na era atual, o interesse por leitura, séries, filmes e jogos tem se expandido exponencialmente, impulsionado pelo desejo crescente de enriquecer as experiências nesse vasto universo de entretenimento.
+
+//acrescentar mais coisas aqui
 
 Dentro desse cenário, surge o projeto "ARCADE", dedicado à biblioteca de jogos, que tem como objetivo proporcionar aos entusiastas uma jornada envolvente e esclarecedora ao explorar e descobrir novos títulos. Através de descrições e sinopses criteriosamente elaboradas, a plataforma auxilia os usuários a adquirir uma compreensão completa das narrativas e, assim, tomar decisões bem informadas sobre quais jogos desejam explorar e seguir. Com uma interface intuitiva e recursos adicionais, o "ARCADE" busca proporcionar uma experiência integral aos amantes de jogos, incentivando o compartilhamento de conhecimento e a descoberta de novas aventuras virtuais.
 
 ## Problema
 Atualmente, os jogadores enfrentam dificuldades para obter informações confiáveis sobre jogos devido à diversidade de plataformas e gêneros. Surge a necessidade de uma fonte confiável de informações detalhadas e imparciais. A solução proposta busca atender a essa necessidade em um mercado saturado.
+
+//Problema não apresentado ou demasiadamente superficial sem uma ideia clara de onde ou com quem o problema acontece sem delimitação de escopo//
 
 ## Objetivos
 O objetivo do projeto "ARCADE" é ser um site confiável para informações sobre jogos e oferecer uma nova maneira de se conectar com comunidades de jogadores. Nosso site também tem como alvo pessoas de todas as idades, oferecendo uma interface intuitiva e novas experiências virtuais.
@@ -130,6 +134,8 @@ Para o desenvolvimento do projeto Web, utilizamos HTML, CSS, Bootstrap e JavaScr
 
 ## Wireframes
 
+//acrescentar o resto dos wireframes//
+
 #### Tela - Login
 A tela de login conta com um sistema de verificação para que o usuário consiga acessar a página.
 
@@ -164,12 +170,16 @@ A tela de jogos consta uma imagem do jogo que foi escolhido pelo usuário, assim
 O Diagrama de Navegação pode ser encontrado no link a seguir:
 https://miro.com/app/board/uXjVMoZx6No=/?share_link_id=703808388196
 
+//Fluxo de telas com poucos artefatos, básico, confuso ou com elementos ilegíveis//
+
 # Conclusões
 O arcade atinge sua principal meta sendo um site confiável de informações para a comunidade Gamer, onde jogadores podem pesquisar a respeito das atualizações de seus jogos preferidos, além de acompanhar suas novidades, e apresentar jogos e comunidades para players de todas as idades.
 
 A um futuro próximo o Arcade propõe novas atualizações, como uma aba para comunidade, onde os usuários poderão compartilhar suas experiências com seus jogos preferidos, além de uma interface editável ao gosto do usuário.
 
 As dificuldades notadas durante o desenvolvimento, foi a decisão a respeito da quantidade de telas e incerteza em relação ao modelo do site.
+
+//O texto é simples e claro, porém sem a inclusão de referências que sustentam as afirmações ou com pouca conexão das ideias apresentadas. - O texto é básico apresentando os aspectos relevantes sem entrar em detalhes, sem citar exemplos e fontes confiáveis//
 
 
 
