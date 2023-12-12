@@ -170,6 +170,9 @@ A tela de jogos consta uma imagem do jogo que foi escolhido pelo usuário, assim
 A página de lista de amigos proporciona aos usuários uma plataforma interativa para gerenciar suas conexões sociais. Neste espaço virtual, os usuários têm a capacidade de adicionar novos amigos, remover conexões existentes e explorar oportunidades para expandir sua rede social. Além disso, a página oferece recursos que permitem aos usuários visualizar quais de seus amigos estão online ou offline, facilitando a comunicação em tempo real.
 ![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/144178764/4cc7898b-5d8d-47eb-9cad-322b3a735be9)
 
+#### Tela - Lista de Amigos
+![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/144178764/6ab8af59-fb80-4160-bd34-11e0df0a7f1c)
+
 
 ## Mapa de navegação
 O Diagrama de Navegação pode ser encontrado no link a seguir:
