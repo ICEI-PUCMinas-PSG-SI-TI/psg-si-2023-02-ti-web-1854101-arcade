@@ -178,6 +178,9 @@ Nossa página de notificações, o seu centro de informações em tempo real! Aq
 Nossa página de desejo, você pode adicionar jogos a sua lista para poder ficar por dentro de todas as informações dos seus jogos favoritos.
 ![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/144178764/80c58c38-9aee-4e34-9902-1334e5ab9a44)
 
+#### Tela - Tela de Comunidade
+Na página de comunidade, podemos ver postagem de outros usuários e fazer nossas próprias postagens interagindo com todos os usuários.
+![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/144178764/8238c4c9-dfa1-4b37-9d7b-a871c6cb0b83)
 
 ## Mapa de navegação
 O Diagrama de Navegação pode ser encontrado no link a seguir:
