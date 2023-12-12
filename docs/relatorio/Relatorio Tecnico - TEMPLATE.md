@@ -166,6 +166,11 @@ A tela de jogos consta uma imagem do jogo que foi escolhido pelo usuário, assim
 
 ![jogo](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/130398684/128ffcc4-353e-49e5-b8be-e326fed6ce27)
 
+#### Tela - Lista de Amigos
+
+![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-arcade/assets/144178764/4cc7898b-5d8d-47eb-9cad-322b3a735be9)
+
+
 ## Mapa de navegação
 O Diagrama de Navegação pode ser encontrado no link a seguir:
 https://miro.com/app/board/uXjVMoZx6No=/?share_link_id=703808388196
